@@ -1,2 +1,2 @@
-# Data_Collection_API_Lab
+# Applied_Data_science_Capstone
 notebook lab
